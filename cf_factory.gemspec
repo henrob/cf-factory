@@ -11,5 +11,6 @@ Gem::Specification.new do |s|
   s.required_ruby_version = '>= 1.9.3'
   s.add_dependency('require_all','>=1.2.1')
   s.add_dependency('rubyzip','>=0.9.9')
+  s.add_dependency('aws-sdk','>=1.8.5')
 
 end
